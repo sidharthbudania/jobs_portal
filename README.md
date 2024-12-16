@@ -1,7 +1,7 @@
-##Job Management Web Application
+## Job Management Web Application
 A dynamic web application built with React for managing job postings, featuring functionalities to create, edit, view, and delete job listings. Designed with a component-based architecture, the application ensures scalability, maintainability, and a seamless user experience.
 
-#Key Features:
+# Key Features:
 
 Dynamic Job Management: Add, edit, and delete job postings with real-time feedback using Toastify.
 Responsive Design: Built with TailwindCSS for a clean and responsive user interface.
